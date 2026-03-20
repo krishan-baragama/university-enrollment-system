@@ -7,7 +7,7 @@
 		"doc": "docs"
 	},
 	"scripts": {
-		"dev": "tsx index.ts"
+		"dev": "tsx src/index.ts"
 	},
 	"repository": {
 		"type": "git",
